@@ -1,3 +1,16 @@
+<!-- #1 https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-webmvc</artifactId>
+			<version>5.1.5.RELEASE</version>
+		</dependency>
 
---# 1 configuraciones para jstl 
+		<!-- # 2 https://mvnrepository.com/artifact/jstl/jstl -->
+		<dependency>
+			<groupId>jstl</groupId>
+			<artifactId>jstl</artifactId>
+			<version>1.2</version>
+		</dependency>
+
+--# 3 configuraciones para jstl 
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
