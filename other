@@ -23,3 +23,6 @@
 
 -- # 6
 <spring:url value="/resources" var="urlPublic" />
+
+--# 7
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
